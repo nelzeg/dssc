@@ -1,4 +1,7 @@
 # Digital Standard Cell Characterizer (DSCC)  
+Python-based electronic design automation (EDA) tool for characterizing digital standard cells designed in [SKY130 PDK](https://skywater-pdk.readthedocs.io/en/main/). The characterization process is based in the ***Synopsys** Liberty User Guides and Reference Manual Suite - Version 2017.06*
+
+***
 
 ### ⚠️ Important:
 1. **The tool only characterizes combinational cells for nodes greater that or equal to 130nm because it is based on the Non linear delay model (NLDM) for timing characterization. The support for sequential cells will be added in the future.**  
