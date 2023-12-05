@@ -1,5 +1,8 @@
 # Digital Standard Cell Characterizer (DSCC)  
-Python-based electronic design automation (EDA) tool for characterizing digital standard cells designed in [SKY130 PDK](https://skywater-pdk.readthedocs.io/en/main/). The characterization process is based in the ***Synopsys** Liberty User Guides and Reference Manual Suite - Version 2017.06*
+Python-based electronic design automation (EDA) tool for characterizing digital standard cells designed in [SKY130 PDK](https://skywater-pdk.readthedocs.io/en/main/). The characterization process is based in the ***Synopsys** Liberty User Guides and Reference Manual Suite - Version 2017.06* 
+
+> The usage of this tool was documented in the following paper :  
+> **[Open-source standard cell and I/O cell design](./open-source_standard_cell_and_IO_cell_design.pdf)**
 
 ***
 
