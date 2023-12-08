@@ -11,6 +11,9 @@ Python-based electronic design automation (EDA) tool for characterizing digital 
 <br>
 
 ## Demo
+
+
+
 ### 📌 Instructions:
 - **The layout file must have the extension `.mag` associated with [Magic Layout Tool](http://opencircuitdesign.com/magic/).**
 - **If you installed the PDK in the default path `/usr/local`, it is not necessary to use the argument `--sky130-root`.**
@@ -22,6 +25,11 @@ python3 dscc.py thesis_aoi211.mag \\
 --output-loads="0.05, 0.1" \\
 --slew-rates="0.1, 0.2"
 ~~~
+
+<br>
+<div align="center"><b >👇🏼 Click on the image to watch the demo</b></div>
+<br>
+<div align="center"><a href="https://www.youtube.com/watch?v=MQNqrHPm8Yg"><img src="demo_cover.png" target="_blank" frameborder="0" width="680" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></a></div>
 
 <!-- <div align="center"><video src="https://github.com/ledzeg/dscc/assets/107968926/7c6d5b47-cb7b-424a-942b-abe0cdf93e18"></video></div> -->
 
